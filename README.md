@@ -9,3 +9,5 @@ This ColorFlipper uses basic JavaScript, CSS and HTML tools.
 -> On the other hand, the hex page allows flipping between infinite colours as the randomness is based on the permutation of 6 characters or numbers.
 
 This project is aimed to learn JavaScript basics.
+
+The project has been published using GitHub at: https://maithri-3.github.io/ColorFlipper/
